@@ -1,0 +1,16 @@
+Você não precisa responder a este exercício sobre estrutura mínima de todos os códigos. Ele é apenas para reflexão!
+
+Até o final do curso, para cada programa que você criar, é preciso criar um novo arquivo com extensão .html e adicionar a tag <meta> e <script>.
+
+<meta charset="UTF-8">
+<script>
+
+</script>
+
+É por isso que ter em mente essas instruções são tão importantes. A primeira, <meta charset="UTF-8"> resolve o problema de acentuação e a segunda define o mundo JavaScript, pois é entre a abertura da tag <script> e seu fechamento </script> que escreveremos os códigos dinâmicos!
+
+A primeira instrução que aprendemos do mundo JavaScript foi a alert. Ela exibe uma janela para o usuário e recebe como parâmetro um texto. Lembre-se que parâmetros são passados entre a abertura e o fechamento de parênteses (). No caso, o texto em JavaScript deve vir entre aspas duplas. Sendo assim, temos:
+
+alert("Isso será exibido para o usuário");
+
+Uma boa prática é terminar uma instrução com ponto e vírgula. Contudo, vimos que se comunicar com o usuário através de alertas pode ser algo tedioso e por isso aprendemos uma nova instrução capaz de escrever a partir do mundo JavaScript no mundo HTML.
